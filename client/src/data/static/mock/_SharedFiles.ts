@@ -61,7 +61,7 @@ const SharedItems: SharedItemsProps = [
   {
     id: 11,
     name: 'configuration.ini',
-    type: 'AUDIO',
+    type: 'FOLDER',
   },
 ];
 
